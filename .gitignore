@@ -1,1 +1,6 @@
+.idea
 
+/node_modules
+
+database.sqlite3
+database.test.sqlite3
